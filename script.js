@@ -211,7 +211,6 @@ const ejer13 = () => {
 };
 
 
-// ================== EJERCICIO 14 ==================
 const ejer14 = () => {
     class Usuario {
         constructor(nombre, egmail) {
